@@ -14,45 +14,36 @@ We are seeking assistance to update our training website to enhance user experie
    - Implement tabs for easier access to information.
    - Add links to relevant pages for additional information.
    - Ensure search bar visibility at all times.
+   - Update landing page the leads to courses that come from the XML feed.
 
-2. **Color Scheme and Font:**
-   - Update color scheme to black and gold.
-   - Implement consistent font across all pages.
 
-3. **Search Functionality:**
+2. **Search Functionality:**
    - Add filter for modalities in search.
    - Include additional filters for skill level, price, etc.
     
 
-4. **Course Information:**
-   - Set default prices for courses with Excel update capability.
-   - Remove free courses from listings.
-   - Remove modality from course titles.
-   - Format headlines to be bold and underlined.
 
-5. **Content Presentation:**
+
+3. **Content Presentation:**
    - Remove block format for a more free-flowing layout.
    - Ensure course info displays days and hours.
    - Alphabetize course listings.
    - Add tags for course grouping.
+   - update the look and feel for each course outline to look like the IBM training website
+   - 
 
-6. **Interactive Features:**
+4. **Interactive Features:**
    - Create download links for public schedules.
    - Implement calendar view for course schedules.
-   - Link calendar to public schedule updates.
+   - Link calendar to public schedule updates from IBM training website.
+   - From IBM training course schedules link back to enrolmnet from
 
-7. **Document Updates:**
-   - Update PDF info to show only course details.
-   - Add CRS logo watermark to PDFs.
 
-8. **Website Structure:**
-   - Remove "-2" from training page URL.
-   - Exclude site-map page from search.
-
-9. **Additional Features:**
+5. **Additional Features:**
    - Add badge info and certification links.
    - Integrate chatbot functionality for user assistance.
    - Include info about IBM certifications and badges.
+     
 
 **Requirements:**
 - Experience in website design and development.
