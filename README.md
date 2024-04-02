@@ -69,5 +69,20 @@ We are seeking assistance to update our training website to enhance user experie
 
 **Additional Notes:** [Include any additional information or specific requirements]
 
+**Sign-off Table:**
+
+| Task                           | Responsible Party         | Date of Completion |
+|--------------------------------|---------------------------|--------------------|
+| Website Look and Feel Updates  | Ralph de Bruijn           | [Date]             |
+| Search Functionality           | Raydo Matthee             | [Date]             |
+| Course Information Updates     | Ralph de Bruijn           | [Date]             |
+| Interactive Features           | Raydo Matthee             | [Date]             |
+| Document Updates               | Ralph de Bruijn           | [Date]             |
+| Website Structure Changes      | Ralph de Bruijn           | [Date]             |
+| Additional Features            | Raydo Matthee             | [Date]             |
+| Final Review and Sign-off      | Dylan Nel                 | [Date]             |
+
+Note: Responsible parties may vary based on specific tasks and project requirements.
+
 ---
 This job request outlines the updates required for our training website. Interested parties with relevant experience are encouraged to reach out for further discussion.
