@@ -1,0 +1,37 @@
+/* Assuming you have extracted color values like these */
+:root {
+    --crs-dark: #0A0A0A; /* Dark color for text or backgrounds */
+    --crs-primary: #FFD700; /* Gold color for accents or buttons */
+    --crs-light: #FFFFFF; /* Light color for text or backgrounds */
+    --crs-accent: #228B22; /* Green color for highlights or links */
+}
+
+body {
+    background-color: var(--crs-dark);
+    color: var(--crs-light);
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: var(--crs-dark);
+}
+
+nav {
+    background-color: var(--crs-dark);
+    color: var(--crs-light);
+}
+
+nav a {
+    color: var(--crs-primary);
+}
+
+nav a:hover {
+    color: var(--crs-accent);
+}
+
+footer {
+    background-color: var(--crs-dark);
+    color: var(--crs-light);
+}
+
+/* Other styles for buttons, links, etc. */
