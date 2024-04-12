@@ -61,6 +61,52 @@ The mission is to develop three landing page templates. These will reflect our e
 
 Together, we're building the future of educational content for technology professionals. Let's innovate and set new benchmarks for excellence with these templates!
 
+# Adding a project register/acceptance/tracking table to the existing README.md content.
+
+readme_content_with_table = readme_content + """
+## Project Register / Acceptance / Tracking Table 📊
+
+This table is designed to track the contributions and progress of each team member throughout the project lifecycle.
+
+| Task                             | Assigned To      | Deadline       | Status   | Acceptance Criteria Met | Notes |
+|----------------------------------|------------------|----------------|----------|-------------------------|-------|
+| Design consistency checks        | Thobile          | Week 2         | Pending  | No                      |       |
+| Technical implementation         | Inacio           | Week 3         | Pending  | No                      |       |
+| Landing Page Template 1          | Malcom           | Week 3         | Pending  | No                      |       |
+| Landing Page Template 2          | Malusi           | Week 3         | Pending  | No                      |       |
+| Landing Page Template 3          | Brandon          | Week 3         | Pending  | No                      |       |
+| Backend Integration              | Frikkie          | Week 4         | Pending  | No                      |       |
+
+## Progress Updates 🔄
+
+- **Week 1:** Initial meeting held, tasks assigned, development environment set up.
+- **Week 2:** Design review with Thobile, front-end development kickoff.
+- **Week 3:** Back-end integration with Frikkie, initial templates review.
+- **Week 4:** Finalization of templates, testing, and documentation.
+
+**Notes:**
+- All tasks must meet the agreed-upon acceptance criteria before being marked as 'Complete'.
+- Regular weekly meetings are held to ensure everyone is on track and any issues are addressed promptly.
+
+[//]: # (Add or modify notes relevant to the project management and tracking as needed.)
+
+---
+
+[CRS Home]: https://cyberretaliatorsolutions.com/
+[LinkedIn]: https://www.linkedin.com/company/cyber-retaliator-solutions
+[Twitter]: https://twitter.com/cyberretaliate
+
+"""
+
+# Write the updated content with the project register table to a new file
+readme_filename_with_table = '/mnt/data/CRS_Landing_Page_Template_Development_with_Table_README.md'
+
+with open(readme_filename_with_table, 'w') as file:
+    file.write(readme_content_with_table)
+
+readme_filename_with_table
+
+
 ---
 
 [![CRS logo](#logo)][CRS Home]
