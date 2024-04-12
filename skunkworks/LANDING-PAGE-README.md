@@ -63,10 +63,11 @@ Together, we're building the future of educational content for technology profes
 
 # Adding a project register/acceptance/tracking table to the existing README.md content.
 
-readme_content_with_table = readme_content + """
 ## Project Register / Acceptance / Tracking Table 📊
 
 This table is designed to track the contributions and progress of each team member throughout the project lifecycle.
+
+---
 
 | Task                             | Assigned To      | Deadline       | Status   | Acceptance Criteria Met | Notes |
 |----------------------------------|------------------|----------------|----------|-------------------------|-------|
@@ -76,6 +77,8 @@ This table is designed to track the contributions and progress of each team memb
 | Landing Page Template 2          | Malusi           | Week 3         | Pending  | No                      |       |
 | Landing Page Template 3          | Brandon          | Week 3         | Pending  | No                      |       |
 | Backend Integration              | Frikkie          | Week 4         | Pending  | No                      |       |
+
+---
 
 ## Progress Updates 🔄
 
@@ -87,8 +90,6 @@ This table is designed to track the contributions and progress of each team memb
 **Notes:**
 - All tasks must meet the agreed-upon acceptance criteria before being marked as 'Complete'.
 - Regular weekly meetings are held to ensure everyone is on track and any issues are addressed promptly.
-
-[//]: # (Add or modify notes relevant to the project management and tracking as needed.)
 
 ---
 
